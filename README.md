@@ -1,4 +1,7 @@
 # DNB Visitt
+
+NOTE: this is the version of the solution that was presented at the acceptance test. With the exception of this little explanatory paragraph, everything is exactly as it was. Creating this 'frozen fork' of the original repository allows the team members to keep building on the solution without fear of breaking any rules related to evalutaion of the project. The original repo can be found [here](https://github.com/TheHeartmann/dnb-visitt), should you be interested in seeing it.
+
 Repo for redoing the DNB Visitt application with Node.js, React, Firebase, Heroku, and Travis. Whew.
 
 ## Getting started
