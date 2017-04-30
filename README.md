@@ -1,6 +1,6 @@
 # DNB Visitt
 
-NOTE: this is the version of the solution that was presented at the acceptance test. With the exception of this little explanatory paragraph, everything is exactly as it was. Creating this 'frozen fork' of the original repository allows the team members to keep building on the solution without fear of breaking any rules related to evalutaion of the project. The original repo can be found [here](https://github.com/TheHeartmann/dnb-visitt), should you be interested in seeing it.
+NOTE: this is the version of the solution that was presented at the acceptance test. With the exception of this little explanatory paragraph and [this section relating to the availability of the deployed website](https://github.com/TheHeartmann/dnb-visitt-acceptance-test#heroku-build), everything is exactly as it was. Creating this 'frozen fork' of the original repository allows the team members to keep building on the solution without fear of breaking any rules related to evalutaion of the project. The original repo can be found [here](https://github.com/TheHeartmann/dnb-visitt), should you be interested in seeing it.
 
 Repo for redoing the DNB Visitt application with Node.js, React, Firebase, Heroku, and Travis. Whew.
 
@@ -121,3 +121,7 @@ This is a set-up I've been recommended by a very tech-savvy and terminal-happy c
 #### macOS: iTerm2 and Oh My Zsh
 
 This is my setup (using theme powerlevel9k), and it rocks my socks.
+
+## Heroku build
+
+At the time of writing the Heroku build is "offline for maintenance", while we're working on password protecting it.
