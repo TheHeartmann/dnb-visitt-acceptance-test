@@ -124,4 +124,5 @@ This is my setup (using theme powerlevel9k), and it rocks my socks.
 
 ## Heroku build
 
-At the time of writing the Heroku build is "offline for maintenance", while we're working on password protecting it.
+The Heroku build is available at [this url](http://dnb-visitt.herokuapp.com/).
+It is currently "offline for maintenance" while we're working on password protecting it.
