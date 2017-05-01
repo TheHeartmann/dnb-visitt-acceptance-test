@@ -1,6 +1,6 @@
 # DNB Visitt
 
-NOTE: this is the version of the solution that was presented at the acceptance test. With the exception of this little explanatory paragraph and [this section relating to the availability of the deployed website](https://github.com/TheHeartmann/dnb-visitt-acceptance-test#heroku-build), everything is exactly as it was. Creating this 'frozen fork' of the original repository allows the team members to keep building on the solution without fear of breaking any rules related to evalutaion of the project. The original repo can be found [here](https://github.com/TheHeartmann/dnb-visitt), should you be interested in seeing it.
+NOTE: this is the version of the solution that was presented at the acceptance test. With the exception of this little explanatory paragraph and [this section about how to access the website](https://github.com/TheHeartmann/dnb-visitt-acceptance-test#heroku-build), everything is exactly as it was. Creating this 'frozen fork' of the original repository allows the team members to keep building on the solution without fear of breaking any rules related to evalutaion of the project. The original repo can be found [here](https://github.com/TheHeartmann/dnb-visitt), should you be interested in seeing it.
 
 Repo for redoing the DNB Visitt application with Node.js, React, Firebase, Heroku, and Travis. Whew.
 
@@ -124,5 +124,12 @@ This is my setup (using theme powerlevel9k), and it rocks my socks.
 
 ## Heroku build
 
-The Heroku build is available at [this url](http://dnb-visitt.herokuapp.com/).
-It is currently "offline for maintenance" while we're working on password protecting it.
+The Heroku build is available at [this url](http://dnb-visitt-node.herokuapp.com/).
+
+You will be prompted to enter an e-mail address to get access. Use `dnbvisitt@gmail.com`. 
+
+This will send an authorization link to that address. To access this token, sign in to [Gmail](https://gmail.com) with the same email address. The password is listed in Resultatrapport.pdf under the heading "For å se nettsiden".
+
+The link must be activated (clicked) within 30 minutes of being sent, and will subsequently let you view the website for 30 days. If the link is not activated, it will not work, and you will need to send a new one.
+
+Upon clicking the authorization link, you should be redirected to the website, to which you now have access.  
