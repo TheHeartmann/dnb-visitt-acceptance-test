@@ -133,4 +133,4 @@ This will send an authorization link to that address. To access this token, sign
 The link must be activated (clicked) within 30 minutes of being sent, and will subsequently let you view the website for 30 days. If the link is not activated, it will not work, and you will need to send a new one.
 
 Upon clicking the authorization link, you should be redirected to the website, to which you now have access.  
-NOTE: the website will not render in Internet Explorer due to IE not natively supporting polyfills. Please use another browser, such as Google Chrome or Firefox.
+NOTE: the website will not render in Internet Explorer due to IE not natively supporting polyfills. Please use a different browser, such as Google Chrome or Firefox to view the site.
