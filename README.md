@@ -124,8 +124,8 @@ This is my setup (using theme powerlevel9k), and it rocks my socks.
 
 ## Heroku build
 
-The Heroku build is available at [this url](http://dnb-visitt-node.herokuapp.com/).
-An newer, updated version (tweaks and bugfixes) of the website can be found at [this url](http://dnb-visitt.herokuapp.com), and accessed in the same manner.
+The Heroku build is available at [this url](http://dnb-visitt-node.herokuapp.com/).\n
+A newer, updated version (tweaks and bugfixes) of the website can be found at [this url](http://dnb-visitt.herokuapp.com), and accessed in the same manner.
 
 You will be prompted to enter an e-mail address to get access. Use `dnbvisitt@gmail.com`. 
 
