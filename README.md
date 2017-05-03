@@ -127,13 +127,14 @@ This is my setup (using theme powerlevel9k), and it rocks my socks.
 The Heroku build is available at [this url](http://dnb-visitt-node.herokuapp.com/).  
 A newer, updated version (tweaks and bugfixes) of the website can be found at [this url](http://dnb-visitt.herokuapp.com), and accessed in the same manner.
 
-You will be prompted to enter an e-mail address to get access. Use `dnbvisitt@gmail.com`. 
+You will be prompted to enter an e-mail address to get access. Use dnbvisitt@gmail.com. 
 
 This will send an authorization link to that address. To access this token, sign in to [Gmail](https://gmail.com) with the same email address. The password is listed in Resultatrapport.pdf under the heading "For å se nettsiden".
 
 The link must be activated (clicked) within 30 minutes of being sent, and will subsequently let you view the website for 30 days. If the link is not activated, it will not work, and you will need to send a new one.
 
-Upon clicking the authorization link, you should be redirected to the website, to which you now have access.  
+Upon clicking the authorization link, you should be redirected to the website, to which you now have access.
+
 Please note that due to the way the authorization is set up, emails will not be sent from Heroku version. They will however work on a local branch, as long as you enter one of the predefined addresses, of which dnbvisitt@gmail.com is one.
 
-NOTE: the website will not render in Internet Explorer due to IE not natively supporting polyfills. Please use a different browser, such as Google Chrome or Firefox to view the site.
+A note on browser compatibility: the website will not render in Internet Explorer due to IE not natively supporting polyfills. Please use a different browser, such as Google Chrome or Firefox to view the site.
