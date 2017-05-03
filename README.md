@@ -134,4 +134,6 @@ This will send an authorization link to that address. To access this token, sign
 The link must be activated (clicked) within 30 minutes of being sent, and will subsequently let you view the website for 30 days. If the link is not activated, it will not work, and you will need to send a new one.
 
 Upon clicking the authorization link, you should be redirected to the website, to which you now have access.  
+Please note that due to the way the authorization is set up, emails will not be sent from Heroku version. They will however work on a local branch, as long as you enter one of the predefined addresses, of which dnbvisitt@gmail.com is one.
+
 NOTE: the website will not render in Internet Explorer due to IE not natively supporting polyfills. Please use a different browser, such as Google Chrome or Firefox to view the site.
